@@ -5,10 +5,11 @@ Sou estudante de Engenharia de Telecomunicações na Unicamp e tenho interesse e
 Atualmente, sou coordenadora de marketing na Atria Jr., onde aplico estratégias de comunicação, design e análise de dados para fortalecer marcas e alcançar resultados consistentes. Também participo de um projeto de Iniciação Científica, voltado para o desenvolvimento de uma inteligência artificial para o software Neuronella.
 
 Tenho interesse em
-    ▪️ Inteligência Artificial
-    ▪️ Desenvolvimento de software (com foco em Flutter, Supabase e Firebase) 
-    ▪️sistemas de comunicação 
-    ▪️Automação com n8n e python
+ ▪️Inteligência Artificial e aplicações práticas de machine learning
+
+▪️Desenvolvimento de software (especialmente apps com Flutter, Supabase e Firebase)
+
+▪️Automação em n8n e python
 
 ## Ferramentas e Tecnologia
 
@@ -18,9 +19,6 @@ Tenho interesse em
 
 ## Contatos:
 <div>
-
-
-
 <a href = "mailto:joyceqego@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/--joycequeiroz/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
