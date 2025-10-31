@@ -24,6 +24,6 @@ Atualmente, sou coordenadora de marketing na Atria Jr., onde aplico estratégias
 <a href="https://www.linkedin.com/in/--joycequeiroz/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/joyce-iroz/Joyce-iroz/blob/output/github-contribution-grid-snake.svg)
+
           
   
