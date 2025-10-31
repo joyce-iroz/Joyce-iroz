@@ -5,6 +5,7 @@ Sou estudante de Engenharia de Telecomunicações na Unicamp e tenho interesse e
 Atualmente, sou coordenadora de marketing na Atria Jr., onde aplico estratégias de comunicação, design e análise de dados para fortalecer marcas e alcançar resultados consistentes. Também participo de um projeto de Iniciação Científica, voltado para o desenvolvimento de uma inteligência artificial para o software Neuronella.
 
 Tenho interesse em
+=
  ▪️Inteligência Artificial e aplicações práticas de machine learning
 
 ▪️Desenvolvimento de software (especialmente apps com Flutter, Supabase e Firebase)
